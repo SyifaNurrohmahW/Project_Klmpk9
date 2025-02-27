@@ -1,10 +1,10 @@
-# 🌟 UAS Kelompok 2 🌟
+# 🌟 UAS Kelompok 9🌟
 
 ## 📂 Daftar Isi Folder
 - **Dokumen UAS** 📄
-  - 📘 Dokumentasi Awal Proyek Pengembangan Basis Data Toko Risky Bawang dan Palawija.pdf
+  - 📘 Dokumentasi Awal Proyek Pengembangan Basis Data Toko Bu Yati.pdf
   - 📙 Fitur Database[1].pdf
-  - 📗 LAPORAN TUGAS UAS kelompok 2.pdf
+  - 📗 LAPORAN TUGAS UAS kelompok 9.pdf
   - 📕 MANUAL PENGGUNAAN SISTEM MANAJEMEN.pdf
 - **Folder Basic** 📁
   - 🔧 Codingan composer
