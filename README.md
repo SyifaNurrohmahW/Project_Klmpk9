@@ -29,8 +29,8 @@ For detailed documentation, refer to the files linked below (written in Indonesi
 ## 🤝 Contributors
 | Contributor       | GitHub Profile                                  |
 |-------------------|------------------------------------------------|
-| **Adia Sandra**  | [🌐 Profile](https://github.com/sandraalmeera) |
-| **Yessica**      | [🌐 Profile](https://github.com/yesicafapa)    |
+| **Ilham Wicaksana**  | [🌐 Profile](https://github.com/sandraalmeera) |
+| **Mahful Yafi A**      | [🌐 Profile](https://github.com/yesicafapa)    |
 
 ---
 
