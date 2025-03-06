@@ -1,4 +1,4 @@
-# 🌟 UAS Kelompok 9🌟
+# 🌟 Kelompok 9 TOKO BU YATI 🌟
 
 ## 📂 Daftar Isi Folder
 - **Dokumen UAS** 📄
